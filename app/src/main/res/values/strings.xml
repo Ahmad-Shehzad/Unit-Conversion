@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Unit Conversion</string>
+    <string name="button1">cm to inches</string>
+    <string name="button2">kg to lbs</string>
+    <string name="button3">Radians to Degrees</string>
+    <string name="button4">km to miles</string>
+    <string name="button5">Litres to Gallons</string>
+    <string name="button6">° C to ° F</string>
+    <string name="cm">Centimetres:</string>
+    <string name="deg">Degrees:</string>
+    <string name="degc">° C:</string>
+    <string name="degf">° F:</string>
+    <string name="ga">Gallons:</string>
+    <string name="inch">Inches:</string>
+    <string name="kg">Kilograms:</string>
+    <string name="km">Kilometres:</string>
+    <string name="lbs">lbs:</string>
+    <string name="li">Litres:</string>
+    <string name="mi">Miles:</string>
+    <string name="rad">Radians:</string>
+</resources>
